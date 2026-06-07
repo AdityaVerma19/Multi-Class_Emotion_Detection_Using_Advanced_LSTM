@@ -63,3 +63,23 @@ text = "I am so surprised by how well this works!"
 prediction, confidence = predict_advanced_emotion(text, model, vocab)
 print(f"Emotion: {prediction} ({confidence*100:.1f}%)")
 ```
+Dataset: Emotion dataset (dair-ai/emotion)
+Embeddings: GloVe 100d
+Model: Advanced BiLSTM + Attention
+Classes:
+Happiness
+Anger
+Fear
+Sadness
+Surprise
+Task: Multi-class emotion classification
+
+Your senior is not asking for a small modification. They are asking for a domain pivot:
+
+Emotion Detection
+        ↓
+Financial Sentiment Analysis
+        ↓
+Market Impact Analysis of Influential Personalities
+
+This actually makes the project much stronger for AI/ML portfolios.
