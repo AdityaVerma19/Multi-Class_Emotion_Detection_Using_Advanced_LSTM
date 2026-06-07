@@ -74,12 +74,3 @@ Sadness
 Surprise
 Task: Multi-class emotion classification
 
-Your senior is not asking for a small modification. They are asking for a domain pivot:
-
-Emotion Detection
-        ↓
-Financial Sentiment Analysis
-        ↓
-Market Impact Analysis of Influential Personalities
-
-This actually makes the project much stronger for AI/ML portfolios.
